@@ -401,7 +401,7 @@ section.offer{
     }
     
     .col{
-        width: 95%;
+        width: 100%;
         margin-top: 20px;
 
     }
@@ -434,7 +434,7 @@ section.offer{
       }
 
       .container{
-        padding: 25px 50px;
+        padding: 10px 20px;
     }
 
     .footer h1{
@@ -442,9 +442,7 @@ section.offer{
     }
 
 
-     .nav{
-     font-size: 80%;
-    }
+
     
     ul.menu{
  
