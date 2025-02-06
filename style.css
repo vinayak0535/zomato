@@ -399,6 +399,7 @@ section.offer{
         flex-direction: column;
         justify-content: center;
         align-items: center;
+        margin-top:10px
     }
     
     .col{
@@ -426,13 +427,16 @@ section.offer{
     .footer-colm{
         flex-wrap: wrap;
         justify-content: space-evenly;
-        font-size:90%
+        font-size:80%
 
       }
 
       .f-col{
         width: 50%;
         margin-top: 25;
+        font-size:80%
+          
+          
       }
 
       .container{
@@ -460,11 +464,13 @@ section.offer{
 
     .logo h1{
         font-size: 25px;
+        font-weight:bold;
     }
     
     .content{
         max-width: 90%;
         padding: 40px 20px;
+        margin-bottom:20px;
     
     }
     
@@ -516,7 +522,7 @@ section.offer{
 
       section.hero{
 
-    height: 50vh;
+    height: 60vh;
 
       }
 
