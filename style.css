@@ -145,7 +145,7 @@ section.offer{
     background-color: #fafafa;
     border-radius: 18px;
     padding: 50px 25px;
-    margin-top: 40px;
+    margin-top: 30px;
 
 }
 
@@ -367,6 +367,7 @@ section.offer{
   .footer-colm{
     display: flex;
     justify-content: space-between;
+      
   }
 
   .f-col h3{
@@ -425,6 +426,7 @@ section.offer{
     .footer-colm{
         flex-wrap: wrap;
         justify-content: space-evenly;
+        font-size:90%
 
       }
 
@@ -441,6 +443,10 @@ section.offer{
         text-align: center;
     }
 
+        .nav{
+     font-size: 90%;
+     flex-direction: column;
+    }
 
 
     
@@ -466,14 +472,14 @@ section.offer{
         font-size: 18px;
     }
     .content h3{
-        font-size: 14px;
+        font-size: 12px;
         margin-top: 20px;
         font-weight: 400;
     }
 
     .search input{
-        width: 200px;
-        font-size: 11px;
+        width: 220px;
+        font-size: 12px;
         border: 1px solid #fff;
         line-height: 33px
 
