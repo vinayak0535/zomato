@@ -527,9 +527,13 @@ section.offer{
 
       }
 
-      .collection h4[
+      .collection h4{
       font-size:16px;
 
+      }
+
+      .f-col{
+          width:100px;
 
 
 
