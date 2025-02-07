@@ -504,8 +504,8 @@ section.offer{
     }
 
     .f-col h3{
-        font-size:18px;
-        letter-spacing:auto;
+        font-size:16px;
+        letter-spacing:0;
     }
     
     .f-col ul li{
@@ -526,6 +526,9 @@ section.offer{
     height: 60vh;
 
       }
+
+      .collection h4[
+      font-size:16px;
 
 
 
