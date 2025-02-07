@@ -504,12 +504,13 @@ section.offer{
     }
 
     .f-col h3{
-        font-size:20px;
-        letter-spacing: 1px;
+        font-size:18px;
+        letter-spacing:auto;
     }
     
     .f-col ul li{
         font-weight: 400;
+        padding:1px;
       }
       
 
